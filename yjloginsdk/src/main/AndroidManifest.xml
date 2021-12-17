@@ -5,6 +5,7 @@
         <activity
             android:name="jp.co.yahoo.yconnect.yjloginsdk.activity.LoginProcessActivity"
             android:exported="true"
+            android:theme="@style/AppTheme"
             android:launchMode="singleTask">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
